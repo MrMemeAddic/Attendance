@@ -1,4 +1,3 @@
-# Attendance
 <div align="center">
 
 # ⬡ Jagte Raho
